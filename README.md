@@ -3,13 +3,14 @@
 
 ## Getting Started
 
-just add new line of text to the editme.txt then commit and push. the indexScripts.js will do the rest by reading the text file and looping throught the lines and rednering them out into html.(read prereq if not working)
+just add new line of text to the editme.txt then commit and push. the indexScripts.js will do the rest by reading the text file and looping throught the lines and rendering them out into html.(read prereq if not working)
 
 ### Prerequisites
 
 ```
 - latest version of firefox will work with this project out of the box
-- in order to work with chorme you can use visual studio code plug in: [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and run as a live server
+- in order to work with chorme you can use visual studio code plug in:
+    [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and run as a live server
 ```
 
 ## Built With
