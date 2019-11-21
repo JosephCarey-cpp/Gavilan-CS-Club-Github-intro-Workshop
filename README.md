@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-just add new line of text to the editme.txt then commit and push. the indexScripts.js will do the rest by reading the text file and looping throught the lines and rendering them out into html.(read prereq if not working)
+just add new line of text to the editme.txt then commit, pull, push and then create a new pull request on github and that its! :) . the indexScripts.js will do the rest by reading the text file and looping throught the lines and rendering them out into html.(read prereq if not working)
 
 ### Prerequisites
 
